@@ -7,6 +7,7 @@ const Header = () => {
         {link: 'Promociones', path: '/'},
         {link: 'Ubiquenos', path: '/'},
         {link: 'Carta', path: '/'},
+        {link: 'Crud', path: '/crud'},
     ]
 
     return (
